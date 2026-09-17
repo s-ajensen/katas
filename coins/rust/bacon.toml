@@ -1,0 +1,2 @@
+default_watch = false
+watch = ["src", "spec"]
